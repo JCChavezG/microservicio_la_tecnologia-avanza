@@ -1,5 +1,5 @@
 spring:
   application:
-    name: moto-service
+    name: usuario-service
 server:
   port: 8080
